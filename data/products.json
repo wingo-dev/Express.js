@@ -1,0 +1,4 @@
+[{"id":"23", "title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},
+{"id":"24","title":"Book Test","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"Whoops!","price":"25"},
+{"id":"25","title":"Book2","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"Whoops!\r\nI like Whoops!","price":"34"},
+{"id":"26","title":"Book3","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"Whoops!\r\nToo expensive","price":"50"}]
